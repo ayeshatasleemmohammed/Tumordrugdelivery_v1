@@ -43,6 +43,6 @@ Archived (Version 1)
 
 This repository is kept as a record of the first stage of my research journey.
 ## Author
-Mohammed Ayesha Tasleem
-Department of Chemical Engineering
-National Institute of Technology Warangal
+Mohammed Ayesha Tasleem,
+Department of Chemical Engineering,
+National Institute of Technology Warangal.
